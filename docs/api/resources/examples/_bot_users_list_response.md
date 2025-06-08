@@ -6,14 +6,14 @@
 {
   "bot_users": [
     {
-      "active": false,
-      "created_at": "2025-05-15T18:01:41Z",
-      "id": "bot_2x8ucVrfECfb7YqXsMf7W2qhyry",
-      "name": "inactive bot user from API",
-      "uri": "https://api.ngrok.com/bot_users/bot_2x8ucVrfECfb7YqXsMf7W2qhyry"
+      "active": true,
+      "created_at": "2025-06-08T10:07:12Z",
+      "id": "bot_2yDlsfbCxBnj1rpNpwrvYzl2KtK",
+      "name": "API example bot user",
+      "uri": "https://api.ngrok.com/bot_users/bot_2yDlsfbCxBnj1rpNpwrvYzl2KtK"
     }
   ],
-  "next_page_uri": "https://api.ngrok.com/bot_users?before_id=bot_2x8ucVrfECfb7YqXsMf7W2qhyry&limit=1",
+  "next_page_uri": "https://api.ngrok.com/bot_users?before_id=bot_2yDlsfbCxBnj1rpNpwrvYzl2KtK&limit=1",
   "uri": "https://api.ngrok.com/bot_users"
 }
 ```
